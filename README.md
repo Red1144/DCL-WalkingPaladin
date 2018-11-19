@@ -42,7 +42,8 @@ Paladin W/Prop J : https://www.mixamo.com(Edited by blender)
 
 Animations(Walking, IdleStanding, Greeting) : https://www.mixamo.com
 
-
+*
+*
 
 *edited stuff of Paladin model
 
