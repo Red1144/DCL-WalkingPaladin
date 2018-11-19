@@ -44,8 +44,13 @@ Animations(Walking, IdleStanding, Greeting) : https://www.mixamo.com
 
 
 *edited stuff of Paladin model
+
 merge meshes
+
 curve fingers for rest pose
+
 decimate to around 1k vertex
+
 add animations by tutorial("How to animate a 3D character in Decentraland (Mixamo)")
+
 export to gltf by same tutorial
