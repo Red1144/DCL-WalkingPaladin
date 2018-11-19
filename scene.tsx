@@ -205,6 +205,11 @@ export default class SampleScene extends DCL.ScriptableScene<any, IState>{
             }}
               />
       </gltf-model>
+      <gltf-model
+        src="art/CubeRoom.gltf"
+        scale={1}
+        position={new Vector3(5,0,5)}>
+      </gltf-model>
       </scene>
     )
   }
