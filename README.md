@@ -6,8 +6,11 @@
 2. Download Project by git(git-bash install needed)
 
     git init
+    
     git remote add origin git@github.com:Red1144/DCL-WalkingPaladin.git
+    
     git pull
+    
     git checkout master
 
 2. dcl start
