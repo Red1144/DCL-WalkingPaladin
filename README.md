@@ -32,17 +32,17 @@ And Babylon.js Used
 # Reference
 Source
 
-* Footstep : https://www.youtube.com/watch?v=btiw_49DeUU
+* Footstep : [(Youtube)](https://www.youtube.com/watch?v=btiw_49DeUU)
 
-* How are you? : https://www.youtube.com/watch?v=Bix0D-jmXfU
+* How are you? : [(Youtube)](https://www.youtube.com/watch?v=Bix0D-jmXfU)
 
-* Adios : https://www.youtube.com/watch?v=ROk1KFwnMl4
+* Adios : [(Youtube)](https://www.youtube.com/watch?v=ROk1KFwnMl4)
 
-* Paladin W/Prop J : https://www.mixamo.com(Edited by blender)
+* Paladin W/Prop J : [(Mixamo)](https://www.mixamo.com)(Edited by blender)
 
-* Animations(Walking, IdleStanding, Greeting) : https://www.mixamo.com
+* Animations(Walking, IdleStanding, Greeting) : [(Mixamo)](https://www.mixamo.com)
 
-* CubeRoom : https://poly.google.com/view/1fahMeqZOw_
+* CubeRoom : [(GooglePoly)](https://poly.google.com/view/1fahMeqZOw_)
 
 
 * edited stuff of Paladin model
