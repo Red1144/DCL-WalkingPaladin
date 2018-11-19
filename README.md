@@ -45,12 +45,12 @@ Source
 
 * edited stuff of Paladin model
 
- 1) merge meshes
+     (1) merge meshes
 
- 2) curve fingers for rest pose
+     (2) curve fingers for rest pose
+     
+     (3) decimate to around 1k vertex
 
- 3) decimate to around 1k vertex
+     (4) add animations by tutorial("How to animate a 3D character in Decentraland (Mixamo)")
 
- 4) add animations by tutorial("How to animate a 3D character in Decentraland (Mixamo)")
-
- 5) export to gltf by same tutorial
+     (5) export to gltf by same tutorial
