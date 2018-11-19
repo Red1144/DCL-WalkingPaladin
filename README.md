@@ -29,10 +29,17 @@ And Babylon.js Used
 
     http://babylon.js
 
-# Resource Reference
+# Reference
+Source
+Footstep : https://www.youtube.com/watch?v=btiw_49DeUU
+How are you? : https://www.youtube.com/watch?v=Bix0D-jmXfU
+Adios : https://www.youtube.com/watch?v=ROk1KFwnMl4
+Paladin W/Prop J : https://www.mixamo.com(Edited by blender)
+Animations(Walking, IdleStanding, Greeting) : https://www.mixamo.com
 
-Paladin : 
-
-Sounds : 
-
-Sky box : Created by Yithian
+edited stuff of Paladin model.
+merge meshes
+curve fingers for rest pose
+decimate to around 1k vertex
+add animations by tutorial("How to animate a 3D character in Decentraland (Mixamo)")
+export to gltf by same tutorial
